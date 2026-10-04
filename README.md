@@ -28,7 +28,7 @@ wall.
 ## Running it
 1. Download and install [Digital](https://github.com/hneemann/Digital).
 2. Download this repository.
-3. Open `[your-file-name].dig` in Digital. Use V5 for the best working version.
+3. Open the dig file you want in Digital. Use V5 for the best working version.
 4. Press the start button.
 
 ## Alternative
